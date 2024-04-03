@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <strong>Associate Professor</strong> @ <a href='http://www.ia.cas.cn/'>CASIA</a> <strong>•</strong> AI Safety
 
 profile:
   align: right
@@ -18,8 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my PhD in [Pattern Recognition](http://www.nlpr.ia.ac.cn/) from the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/), where I was advised by [Tieniu Tan](http://cripac.ia.ac.cn/en/EN/column/item80.shtml) during 2012-2017. I am currently an Associate Professor of the [Center for Research on Intelligent Perception and Computing (CRIPAC)](http://cripac.ia.ac.cn/), CASIA. I am a member of IEEE, CCF, CAAI, etc. I am also a member of technical executive committee on Digital Forensics and Security of [CSIG](https://www.csig.org.cn/), technical committee (TC) on Computer Vision of [CCF](https://www.ccf.org.cn/), TC on Pattern Recognition of [CAAI](https://www.caai.cn/), etc. My current research interests include artificial intelligence and its security problem, image and video forensics and privacy, and information content security.
