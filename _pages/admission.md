@@ -30,9 +30,9 @@ The invovled topics are:
 
 > 📌<font color="#007575">Early applications are strongly encouraged.</font>
 >
-> - *<font color="#007575">Late applications may only be considered on a space-available basis.</font>*
-> - *<font color="#007575">Priority may be given to on-time applications.</font>*
-> - *<font color="#007575">The admission quota may vary in different school year.</font>*
+> - _<font color="#007575">Late applications may only be considered on a space-available basis.</font>_
+> - _<font color="#007575">Priority may be given to on-time applications.</font>_
+> - _<font color="#007575">The admission quota may vary in different school year.</font>_
 
 ## Requirements
 
