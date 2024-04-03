@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: subtitle: <strong>Associate Professor</strong> @ <a href='http://www.ia.cas.cn/'>CASIA</a> <strong>•</strong> AI Safety
+subtitle: <strong>Associate Professor</strong> @ <a href='http://www.ia.cas.cn/'>CASIA</a> <strong>•</strong> AI Safety
 
 profile:
   align: right
