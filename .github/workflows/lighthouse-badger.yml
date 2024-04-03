@@ -52,7 +52,7 @@ jobs:
           repository: ${{ env.REPOSITORY }}
           token: ${{ secrets.GITHUB_TOKEN }}
           ref: ${{ env.BRANCH }}
-      - uses: actions/checkout@v41
+      - uses: actions/checkout@v4
         with:
           repository: "myactionway/lighthouse-badges"
           path: temp_lighthouse_badges_nested
