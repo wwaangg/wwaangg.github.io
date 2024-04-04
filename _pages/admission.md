@@ -15,6 +15,7 @@ The _MPhi/ME_ in Artificial Intelligence Programme includes specialized, intensi
 The invovled topics are:
 
 1. AI Safety
+
    - Robustness guarantees that a system continues to operate within safe limits even in unfamiliar settings;
    - Assurance seeks to establish that it can be analyzed and understood easily by human operators; and
    - Specification is concerned with ensuring that its behavior aligns with the system designer's intentions.
@@ -31,12 +32,10 @@ The invovled topics are:
 
 > ##### :alarm_clock: Early applications are strongly encouraged.
 >
->  - Late applications may only be considered on a space-available basis.
->  
->  - Priority may be given to on-time applications.
->  
->  - The admission quota may vary in different school year.
-{: .block-tip }
+> - Late applications may only be considered on a space-available basis.
+> - Priority may be given to on-time applications.
+> - The admission quota may vary in different school year.
+>   {: .block-tip }
 
 ## Requirements
 
