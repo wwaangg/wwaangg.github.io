@@ -10,7 +10,7 @@ horizontal: false
 
 ## Applying for Postgraduate Admission (2025 Entry)
 
-The MSc in Artificial Intelligence Programme includes specialized, intensive training in programming, AI and scientific paper writing. There are opportunities to do both the group and individual projects with leading companies working on applications of AI.
+The _MPhi/ME_ in Artificial Intelligence Programme includes specialized, intensive training in programming, AI and scientific paper writing. There are opportunities to do both the group and individual projects with leading companies working on applications of AI.
 
 The invovled topics are:
 
@@ -29,11 +29,14 @@ The invovled topics are:
 - Early Application Deadline: 15 July 2024
 - Normal Application Deadline: 30 July 2024
 
-> 📌<font color="#007575">Early applications are strongly encouraged.</font>
+> ##### :alarm_clock: Early applications are strongly encouraged.
 >
-> - _<font color="#007575">Late applications may only be considered on a space-available basis.</font>_
-> - _<font color="#007575">Priority may be given to on-time applications.</font>_
-> - _<font color="#007575">The admission quota may vary in different school year.</font>_
+>  - Late applications may only be considered on a space-available basis.
+>  
+>  - Priority may be given to on-time applications.
+>  
+>  - The admission quota may vary in different school year.
+{: .block-tip }
 
 ## Requirements
 
@@ -50,4 +53,7 @@ The ideal candidates
 
 ## Contact
 
-If you have further questions regarding the degree which are not answered here or elsewhere on the website, please contact me for the MPhil/ME in Artificial Intelligence at 📧<wei.wong@ia.ac.cn>.
+If you have further questions regarding the degree which are not answered here or elsewhere on the website, please contact me for the _MPhil/ME_ in Artificial Intelligence at :point_down:
+{% details Click here%}
+📧<wei.wong@ia.ac.cn>
+{% enddetails %}
