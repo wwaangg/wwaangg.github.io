@@ -65,7 +65,7 @@ blockquote {
   border-left: 5px solid var(--global-theme-color);
   margin: 1.5em 0;
   padding: 1em;
-  font-size: 1.2rem;
+  font-size: 1rem;
 
   p {
     margin-bottom: 0;
@@ -769,9 +769,6 @@ footer.sticky-bottom {
             border-color: var(--global-theme-color);
           }
         }
-        a.award.btn {
-          border-color: var(--global-highlight-color);
-        }
       }
 
       .badges {
@@ -828,12 +825,6 @@ footer.sticky-bottom {
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
       }
-    }
-    div.award.hidden {
-      border: dashed 1px var(--global-bg-color);
-    }
-    div.award.hidden.open {
-      border-color: var(--global-highlight-color);
     }
   }
 }
