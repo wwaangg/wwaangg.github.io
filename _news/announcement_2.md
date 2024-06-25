@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-![news](/assets/img/new.gif) One paper is accepted in ACM MM 2023 :sparkles: :smile:
+One paper is accepted in ACM MM 2023 :sparkles: :smile:

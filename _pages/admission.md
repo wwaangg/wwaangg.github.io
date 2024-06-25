@@ -10,7 +10,7 @@ horizontal: false
 
 ## Applying for Postgraduate Admission (2025 Entry)
 
-The _MPhi/ME_ in Artificial Intelligence Programme includes specialized, intensive training in programming, AI and scientific paper writing. There are opportunities to do both the group and individual projects with leading companies working on applications of AI.
+The _M.S.E./M.E._ in Artificial Intelligence Programme includes specialized, intensive training in programming, AI and scientific paper writing. There are opportunities to do both the group and individual projects with leading companies working on applications of AI.
 
 The invovled topics are:
 
@@ -52,7 +52,7 @@ The ideal candidates
 
 ## Contact
 
-If you have further questions regarding the degree which are not answered here or elsewhere on the website, please contact me for the _MPhil/ME_ in Artificial Intelligence at :point_down:
+If you have further questions regarding the degree which are not answered here or elsewhere on the website, please contact me for the _M.S.E./M.E._ in Artificial Intelligence at :point_down:
 {% details Click here%}
 📧<wei.wong@ia.ac.cn>
 {% enddetails %}

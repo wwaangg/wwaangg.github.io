@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-![news](/assets/img/new.gif) Two papers are accepted in CVPR 2023 :sparkles: :smile:
+One paper is accepted in CVPR 2023 :sparkles: :smile:
