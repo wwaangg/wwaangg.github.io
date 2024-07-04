@@ -48,7 +48,11 @@ The ideal candidates
 
 ### English proficiency requirements
 
-- CET6: Overall Band at 550
+Applicants should fulfill the following minimum English proficiency requirement:
+
+- an overall band score of 6.5 in International English Language Testing System (IELTS); or
+- a score of 550 in the Chinese mainland’s College English Test Band 6 (CET-6); or
+- other equivalent qualifications.
 
 ## Contact
 
