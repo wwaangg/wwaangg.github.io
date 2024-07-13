@@ -194,6 +194,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  members:
+    output: true
+    permalink: /co-author/:path
 
 announcements:
   enabled: true
