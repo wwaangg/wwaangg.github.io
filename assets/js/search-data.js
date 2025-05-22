@@ -49,6 +49,12 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-is-accepted-in-eccv-2024-sparkles-smile",
           title: 'One paper is accepted in ECCV 2024 :sparkles: :smile:',
           description: "",
+          section: "News",},{id: "news-one-paper-is-accepted-in-icml-2025-sparkles-smile",
+          title: 'One paper is accepted in ICML 2025 :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-one-paper-is-accepted-by-tifs-sparkles-smile",
+          title: 'One paper is accepted by TIFS :sparkles: :smile:',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
