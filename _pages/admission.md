@@ -26,9 +26,9 @@ The invovled topics are:
 
 ## Timeline
 
-- Application Start Date: 10 July 2024
-- Early Application Deadline: 15 July 2024
-- Normal Application Deadline: 30 July 2024
+- Application Start Date: 10 July 2025
+- Early Application Deadline: 15 July 2025
+- Normal Application Deadline: 30 July 2025
 
 > ##### :alarm_clock: Early applications are strongly encouraged.
 >
