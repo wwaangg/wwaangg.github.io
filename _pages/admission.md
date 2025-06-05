@@ -8,9 +8,9 @@ nav_order: 3
 horizontal: false
 ---
 
-## Applying for Postgraduate Admission (2025 Entry)
+## Applying for Postgraduate Admission (2026 Entry)
 
-The _M.S.E./M.E._ in Artificial Intelligence Programme includes specialized, intensive training in programming, AI and scientific paper writing. There are opportunities to do both the group and individual projects with leading companies working on applications of AI.
+The _M.S.E./M.E._ in Artificial Intelligence Program includes specialized, intensive training in programming, AI and scientific paper writing. There are opportunities to do both the group and individual projects with leading companies working on applications of AI.
 
 The invovled topics are:
 
