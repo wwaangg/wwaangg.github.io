@@ -39,12 +39,13 @@ The invovled topics are:
 
 ## Requirements
 
-The ideal candidates
+The ideal candidates should:
 
-- should be self-motivated;
-- are expected to have a strong interest in computer vision or generative AI;
-- should possess knowledge of linear algebra, calculus, probability theory, introductory statistics; and
-- should have strong skills in programming.
+- be self-motivated;
+- have a strong interest in computer vision or generative AI;
+- possess knowledge of linear algebra, calculus, probability theory, and introductory statistics;
+- have strong programming skills;
+- and demonstrate curiosity, critical thinking, and a willingness to unlearn and relearn.
 
 ### English proficiency requirements
 
