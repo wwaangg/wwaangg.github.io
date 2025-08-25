@@ -12,7 +12,7 @@ horizontal: false
 
 The _M.S.E./M.E._ in Artificial Intelligence Program includes specialized, intensive training in programming, AI and scientific paper writing. There are opportunities to do both the group and individual projects with leading companies working on applications of AI.
 
-The invovled topics are:
+The involved topics are:
 
 1. AI Safety
 
@@ -26,9 +26,9 @@ The invovled topics are:
 
 ## Timeline
 
-- Application Start Date: 10 July 2025
-- Early Application Deadline: 15 July 2025
-- Normal Application Deadline: 30 July 2025
+- Application Start Date: 12 August 2025
+- Early Application Deadline: 18 August 2025
+- Normal Application Deadline: 28 August 2025
 
 > ##### :alarm_clock: Early applications are strongly encouraged.
 >
