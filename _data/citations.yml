@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-05-01'
 papers:
   Om9jSl8AAAAJ:-7ulzOJl1JYC:
     citations: 5
@@ -10,7 +10,7 @@ papers:
     title: 'DFGC-VRA: DeepFake Game Competition on Visual Realism Assessment'
     year: '2023'
   Om9jSl8AAAAJ:-uzm3Y7AvW0C:
-    citations: 3
+    citations: 4
     title: Partial reconstruction error for deepfake detection
     year: '2025'
   Om9jSl8AAAAJ:0aBXIfxlw9sC:
@@ -30,11 +30,11 @@ papers:
     title: Feature pyramid deep matching and localization network for image forensics
     year: '2018'
   Om9jSl8AAAAJ:2l5NCbZemmgC:
-    citations: 229
+    citations: 236
     title: Detecting compressed deepfake videos in social networks using frame-temporality two-stream convolutional network
     year: '2021'
   Om9jSl8AAAAJ:2osOgNQ5qMEC:
-    citations: 101
+    citations: 102
     title: Image tampering detection based on stationary distribution of markov chain
     year: '2010'
   Om9jSl8AAAAJ:2v_ZtQDX9iAC:
@@ -42,19 +42,19 @@ papers:
     title: "\u9762\u5411\u8F7B\u91CF\u7EA7\u6DF1\u5EA6\u4F2A\u9020\u68C0\u6D4B\u7684\u65E0\u6570\u636E\u6A21\u578B\u538B\u7F29"
     year: '2023'
   Om9jSl8AAAAJ:2ywjKiB__4kC:
-    citations: 11
+    citations: 12
     title: Exploiting backdoors of face synthesis detection with natural triggers
     year: '2024'
   Om9jSl8AAAAJ:37UQlXuwjP4C:
-    citations: 1
+    citations: 3
     title: Instant Preference Alignment for Text-to-Image Diffusion Models
     year: '2025'
   Om9jSl8AAAAJ:3fE2CSJIrl8C:
-    citations: 1065
+    citations: 1104
     title: Casia image tampering detection evaluation database
     year: '2013'
   Om9jSl8AAAAJ:4fKUyHm3Qg0C:
-    citations: 702
+    citations: 714
     title: Deep learning for steganalysis via convolutional neural networks
     year: '2015'
   Om9jSl8AAAAJ:65Yg0jNCQDAC:
@@ -78,7 +78,7 @@ papers:
     title: 'Position determines perspective: Investigating perspective distortion for image forensics of faces'
     year: '2017'
   Om9jSl8AAAAJ:8dzOF9BpDQoC:
-    citations: 9
+    citations: 12
     title: 'Beyond Inserting: Learning Subject Embedding for Semantic-Fidelity Personalized Diffusion Generation'
     year: '2025'
   Om9jSl8AAAAJ:9yKSN-GCB0IC:
@@ -86,15 +86,15 @@ papers:
     title: Multi-class blind steganalysis based on image run-length analysis
     year: '2009'
   Om9jSl8AAAAJ:A8cqit5AE6sC:
-    citations: 3
+    citations: 4
     title: 'Cmsl: Cross-modal style learning for few-shot image generation'
     year: '2025'
   Om9jSl8AAAAJ:AYInfyleIOsC:
-    citations: 262
+    citations: 272
     title: Initializing film homogeneity to retard phase segregation for stable perovskite solar cells
     year: '2022'
   Om9jSl8AAAAJ:An6A6Jpfc1oC:
-    citations: 49
+    citations: 50
     title: 'SOGAN: 3D-aware shadow and occlusion robust GAN for makeup transfer'
     year: '2021'
   Om9jSl8AAAAJ:AzKEL7Gb_04C:
@@ -114,11 +114,11 @@ papers:
     title: Collaborative feature learning for fine-grained facial forgery detection and segmentation
     year: '2023'
   Om9jSl8AAAAJ:D_tqNUsBuKoC:
-    citations: 2
+    citations: 3
     title: 'St-sbv: Spatial-temporal self-blended videos for deepfake detection'
     year: '2024'
   Om9jSl8AAAAJ:DkZNVXde3BIC:
-    citations: 41
+    citations: 42
     title: Transferable sparse adversarial attack
     year: '2021'
   Om9jSl8AAAAJ:DrR-2ekChdkC:
@@ -126,7 +126,7 @@ papers:
     title: Exposing fine-grained adversarial vulnerability of face anti-spoofing models
     year: '2023'
   Om9jSl8AAAAJ:DyXnQzXoVgIC:
-    citations: 66
+    citations: 70
     title: 'Riddle: Reversible and diversified de-identification with latent encryptor'
     year: '2023'
   Om9jSl8AAAAJ:FiytvqdAVhgC:
@@ -142,7 +142,7 @@ papers:
     title: Revisiting ensemble adversarial attack
     year: '2022'
   Om9jSl8AAAAJ:Hck25ST_3aIC:
-    citations: 9
+    citations: 13
     title: Defending against deepfakes with ensemble adversarial perturbation
     year: '2022'
   Om9jSl8AAAAJ:HhcuHIWmDEUC:
@@ -150,7 +150,7 @@ papers:
     title: "\u89C6\u89C9\u5BF9\u6297\u6837\u672C\u751F\u6210\u6280\u672F\u6982\u8FF0"
     year: '2020'
   Om9jSl8AAAAJ:IaI1MmNe2tcC:
-    citations: 329
+    citations: 330
     title: 'SSGAN: Secure steganography based on generative adversarial networks'
     year: '2017'
   Om9jSl8AAAAJ:Ic1VZgkJnDsC:
@@ -158,15 +158,15 @@ papers:
     title: Model Backdoor Attack on Federated Learning Based on Parameter Analysis
     year: '2026'
   Om9jSl8AAAAJ:IsPWOBWtZBwC:
-    citations: 41
+    citations: 43
     title: Defeating deepfakes via adversarial visual reconstruction
     year: '2022'
   Om9jSl8AAAAJ:JP7YXuLIOvAC:
-    citations: 9
+    citations: 10
     title: 'Concept corrector: Erase concepts on the fly for text-to-image diffusion models'
     year: '2025'
   Om9jSl8AAAAJ:JQOojiI6XY0C:
-    citations: 192
+    citations: 195
     title: Learning and transferring representations for image steganalysis using convolutional neural network
     year: '2016'
   Om9jSl8AAAAJ:JTqpx9DYBaYC:
@@ -182,7 +182,7 @@ papers:
     title: Ensemble reversible data hiding
     year: '2018'
   Om9jSl8AAAAJ:LPtt_HFRSbwC:
-    citations: 227
+    citations: 232
     title: On the generalization of GAN image forensics
     year: '2019'
   Om9jSl8AAAAJ:L_l9e5I586QC:
@@ -198,7 +198,7 @@ papers:
     title: Perspective distortion characteristic based facial image authentication method and storage and processing device thereof
     year: '2020'
   Om9jSl8AAAAJ:OBSaB-F7qqsC:
-    citations: 31
+    citations: 32
     title: An accurate LSTM based video heart rate estimation method
     year: '2019'
   Om9jSl8AAAAJ:PaBasH6fAo0C:
@@ -206,7 +206,7 @@ papers:
     title: Image forensics based on planar contact constraints of 3D objects
     year: '2017'
   Om9jSl8AAAAJ:PkcyUWeTMh0C:
-    citations: 20
+    citations: 22
     title: Guided erasable adversarial attack (GEAA) toward shared data protection
     year: '2022'
   Om9jSl8AAAAJ:QsaTk4IG4EwC:
@@ -222,7 +222,7 @@ papers:
     title: Identification of image global processing operator chain based on feature decoupling
     year: '2023'
   Om9jSl8AAAAJ:SGW5VrABaM0C:
-    citations: 9
+    citations: 11
     title: Robust face-swap detection based on 3d facial shape information
     year: '2022'
   Om9jSl8AAAAJ:SIv7DqKytYAC:
@@ -230,7 +230,7 @@ papers:
     title: "\u5F00\u653E\u73AF\u5883\u4E0B\u81EA\u9002\u5E94\u805A\u7C7B\u4F18\u5316\u5305\u7EDC\u7684\u76F8\u673A\u6765\u6E90\u53D6\u8BC1"
     year: '2022'
   Om9jSl8AAAAJ:SP6oXDckpogC:
-    citations: 106
+    citations: 107
     title: Exploring DCT Coefficient Quantization Effects for Local Tampering Detection
     year: '2014'
   Om9jSl8AAAAJ:SjuI4pbJlxcC:
@@ -242,7 +242,7 @@ papers:
     title: A unified framework for high fidelity face swap and expression reenactment
     year: '2021'
   Om9jSl8AAAAJ:TaaCk18tZOkC:
-    citations: 4
+    citations: 5
     title: Fast adversarial training with weak-to-strong spatial-temporal consistency in the frequency domain on videos
     year: '2025'
   Om9jSl8AAAAJ:UHK10RUVsp4C:
@@ -254,7 +254,7 @@ papers:
     title: Tampered region localization of digital color images based on jpeg compression noise
     year: '2010'
   Om9jSl8AAAAJ:UmS_249rOGwC:
-    citations: 8
+    citations: 9
     title: "\u6570\u5B57\u5A92\u4F53\u53D6\u8BC1\u6280\u672F\u7EFC\u8FF0"
     year: '2021'
   Om9jSl8AAAAJ:WAzi4Gm8nLoC:
@@ -274,7 +274,7 @@ papers:
     title: 'BadPromptFL: A Novel Backdoor Threat to Prompt-based Federated Learning in Multimodal Models'
     year: '2025'
   Om9jSl8AAAAJ:X9ykpCP0fEIC:
-    citations: 19
+    citations: 20
     title: Learning dense correspondence for nerf-based face reenactment
     year: '2024'
   Om9jSl8AAAAJ:XUvXOeBm_78C:
@@ -282,7 +282,7 @@ papers:
     title: Reversible embedding to covers full of boundaries
     year: '2018'
   Om9jSl8AAAAJ:YsrPvlHIBpEC:
-    citations: 34
+    citations: 35
     title: 'A new globally adaptive k-nearest neighbor classifier based on local mean optimization: Z. Pan et al.'
     year: '2021'
   Om9jSl8AAAAJ:_AeoHAGD03cC:
@@ -290,7 +290,7 @@ papers:
     title: 'Probing unlearned diffusion models: A transferable adversarial attack perspective'
     year: '2025'
   Om9jSl8AAAAJ:c59VksA5Vz4C:
-    citations: 0
+    citations: 1
     title: '-DPO: Robust Preference Alignment for Diffusion Models via  Divergence'
     year: Unknown Year
   Om9jSl8AAAAJ:c_xDhezhKKUC:
@@ -310,7 +310,7 @@ papers:
     title: A features decoupling method for multiple manipulations identification in image operation chains
     year: '2021'
   Om9jSl8AAAAJ:eGYfIraVYiQC:
-    citations: 29
+    citations: 34
     title: Improving generalization of deepfake detectors by imposing gradient regularization
     year: '2024'
   Om9jSl8AAAAJ:eMMeJKvmdy0C:
@@ -318,7 +318,7 @@ papers:
     title: Robust steganalysis based on training set construction and ensemble classifiers weighting
     year: '2015'
   Om9jSl8AAAAJ:eO3_k5sD8BwC:
-    citations: 30
+    citations: 32
     title: 'Dfgc 2021: A deepfake game competition'
     year: '2021'
   Om9jSl8AAAAJ:g5Ck-dwhA_QC:
@@ -326,7 +326,7 @@ papers:
     title: 'Protecting by attacking: A personal information protecting method with cross-modal adversarial examples'
     year: '2023'
   Om9jSl8AAAAJ:hSRAE-fF4OAC:
-    citations: 2
+    citations: 3
     title: "\u9762\u5411\u8054\u90A6\u5B66\u4E60\u7684\u5BF9\u6297\u6837\u672C\u6295\u6BD2\u653B\u51FB"
     year: '2023'
   Om9jSl8AAAAJ:hkOj_22Ku90C:
@@ -345,6 +345,10 @@ papers:
     citations: 9
     title: 'DeepFirearm: Learning discriminative feature representation for fine-grained firearm retrieval'
     year: '2018'
+  Om9jSl8AAAAJ:jmjb1lOE9QIC:
+    citations: 0
+    title: 'Beyond data dependency: FedPET enables robust federated learning via data-free dual-teacher knowledge distillation'
+    year: '2026'
   Om9jSl8AAAAJ:jtI9f0ekYq0C:
     citations: 0
     title: 'Stealthy Backdoor Carriers: The Threat of Visual Prompts to CLIP'
@@ -366,7 +370,7 @@ papers:
     title: 'ATSTA: Efficient Audio Backdoor Attack Based on Alternating Training With Limited Knowledge'
     year: '2026'
   Om9jSl8AAAAJ:mKu_rENv82IC:
-    citations: 59
+    citations: 60
     title: A new fast search algorithm for exact k-nearest neighbors based on optimal triangle-inequality-based check strategy
     year: '2020'
   Om9jSl8AAAAJ:mWEH9CqjF64C:
@@ -378,7 +382,7 @@ papers:
     title: 'Multi-To-Binary: A generalizable deepfake detection approach with multi-classification guidance'
     year: '2025'
   Om9jSl8AAAAJ:nqdriD65xNoC:
-    citations: 1
+    citations: 2
     title: 'MAP-Mamba: Multi-Artifacts Perception Mamba for Generalizable Face Forgery Detection'
     year: '2026'
   Om9jSl8AAAAJ:oPLKW5k6eA4C:
@@ -398,11 +402,11 @@ papers:
     title: 'DREAM: A Benchmark Study for Deepfake photoREalism AssessMent'
     year: '2026'
   Om9jSl8AAAAJ:pS0ncopqnHgC:
-    citations: 40
+    citations: 41
     title: Temporal sparse adversarial attack on sequence-based gait recognition
     year: '2023'
   Om9jSl8AAAAJ:prdVHNxh-e8C:
-    citations: 13
+    citations: 14
     title: What is the best practice for cnns applied to visual instance retrieval?
     year: '2016'
   Om9jSl8AAAAJ:qjMakFHDy7sC:
@@ -418,7 +422,7 @@ papers:
     title: Adversarial analysis for source camera identification
     year: '2020'
   Om9jSl8AAAAJ:rbm3iO8VlycC:
-    citations: 119
+    citations: 125
     title: 'SNIS: A signal noise separation-based network for post-processed image forgery detection'
     year: '2022'
   Om9jSl8AAAAJ:sSrBHYA8nusC:
@@ -434,11 +438,11 @@ papers:
     title: Effective image splicing detection based on image chroma
     year: '2009'
   Om9jSl8AAAAJ:u5HHmVD_uO8C:
-    citations: 107
+    citations: 108
     title: A survey of passive image tampering detection
     year: '2009'
   Om9jSl8AAAAJ:uLbwQdceFCQC:
-    citations: 17
+    citations: 18
     title: Learning representations for steganalysis from regularized cnn model with auxiliary tasks
     year: '2016'
   Om9jSl8AAAAJ:uVUOdF_882EC:
@@ -450,7 +454,7 @@ papers:
     title: Video steganalysis based on the constraints of motion vectors
     year: '2013'
   Om9jSl8AAAAJ:v6i8RKmR8ToC:
-    citations: 23
+    citations: 24
     title: 'Ae-nerf: Audio enhanced neural radiance field for few shot talking head synthesis'
     year: '2024'
   Om9jSl8AAAAJ:wE-fMHVdjMkC:
@@ -474,7 +478,7 @@ papers:
     title: Towards reliable deepfake detection from uncertainty calibration perspective
     year: '2025'
   Om9jSl8AAAAJ:z_wVstp3MssC:
-    citations: 96
+    citations: 97
     title: Optimized 3D lighting environment estimation for image forgery detection
     year: '2016'
   Om9jSl8AAAAJ:zdjWy_NXXwUC:
@@ -486,6 +490,6 @@ papers:
     title: Are you confident that you have successfully generated adversarial examples?
     year: '2020'
   Om9jSl8AAAAJ:zwpXiJ37cpgC:
-    citations: 3
+    citations: 4
     title: Counterfactual explanations for face forgery detection via adversarial removal of artifacts
     year: '2024'
