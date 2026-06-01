@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-06-01'
 papers:
   Om9jSl8AAAAJ:-7ulzOJl1JYC:
     citations: 5
@@ -46,15 +46,15 @@ papers:
     title: Exploiting backdoors of face synthesis detection with natural triggers
     year: '2024'
   Om9jSl8AAAAJ:37UQlXuwjP4C:
-    citations: 2
+    citations: 3
     title: Instant Preference Alignment for Text-to-Image Diffusion Models
     year: '2025'
   Om9jSl8AAAAJ:3fE2CSJIrl8C:
-    citations: 1130
+    citations: 1139
     title: Casia image tampering detection evaluation database
     year: '2013'
   Om9jSl8AAAAJ:4fKUyHm3Qg0C:
-    citations: 724
+    citations: 725
     title: Deep learning for steganalysis via convolutional neural networks
     year: '2015'
   Om9jSl8AAAAJ:65Yg0jNCQDAC:
@@ -86,11 +86,11 @@ papers:
     title: Multi-class blind steganalysis based on image run-length analysis
     year: '2009'
   Om9jSl8AAAAJ:A8cqit5AE6sC:
-    citations: 5
+    citations: 6
     title: 'Cmsl: Cross-modal style learning for few-shot image generation'
     year: '2025'
   Om9jSl8AAAAJ:AYInfyleIOsC:
-    citations: 282
+    citations: 283
     title: Initializing film homogeneity to retard phase segregation for stable perovskite solar cells
     year: '2022'
   Om9jSl8AAAAJ:An6A6Jpfc1oC:
@@ -126,7 +126,7 @@ papers:
     title: Exposing fine-grained adversarial vulnerability of face anti-spoofing models
     year: '2023'
   Om9jSl8AAAAJ:DyXnQzXoVgIC:
-    citations: 70
+    citations: 71
     title: 'Riddle: Reversible and diversified de-identification with latent encryptor'
     year: '2023'
   Om9jSl8AAAAJ:FiytvqdAVhgC:
@@ -142,7 +142,7 @@ papers:
     title: Revisiting ensemble adversarial attack
     year: '2022'
   Om9jSl8AAAAJ:Hck25ST_3aIC:
-    citations: 13
+    citations: 14
     title: Defending against deepfakes with ensemble adversarial perturbation
     year: '2022'
   Om9jSl8AAAAJ:HhcuHIWmDEUC:
@@ -150,7 +150,7 @@ papers:
     title: "\u89C6\u89C9\u5BF9\u6297\u6837\u672C\u751F\u6210\u6280\u672F\u6982\u8FF0"
     year: '2020'
   Om9jSl8AAAAJ:IaI1MmNe2tcC:
-    citations: 332
+    citations: 334
     title: 'SSGAN: Secure steganography based on generative adversarial networks'
     year: '2017'
   Om9jSl8AAAAJ:Ic1VZgkJnDsC:
@@ -158,11 +158,11 @@ papers:
     title: Model Backdoor Attack on Federated Learning Based on Parameter Analysis
     year: '2026'
   Om9jSl8AAAAJ:IsPWOBWtZBwC:
-    citations: 43
+    citations: 44
     title: Defeating deepfakes via adversarial visual reconstruction
     year: '2022'
   Om9jSl8AAAAJ:JP7YXuLIOvAC:
-    citations: 10
+    citations: 11
     title: 'Concept corrector: Erase concepts on the fly for text-to-image diffusion models'
     year: '2025'
   Om9jSl8AAAAJ:JQOojiI6XY0C:
@@ -186,7 +186,7 @@ papers:
     title: Ensemble reversible data hiding
     year: '2018'
   Om9jSl8AAAAJ:LPtt_HFRSbwC:
-    citations: 237
+    citations: 238
     title: On the generalization of GAN image forensics
     year: '2019'
   Om9jSl8AAAAJ:L_l9e5I586QC:
@@ -250,7 +250,7 @@ papers:
     title: New graph-theoretic approach to social steganography
     year: '2019'
   Om9jSl8AAAAJ:SnGPuo6Feq8C:
-    citations: 63
+    citations: 64
     title: A unified framework for high fidelity face swap and expression reenactment
     year: '2021'
   Om9jSl8AAAAJ:TaaCk18tZOkC:
@@ -294,7 +294,7 @@ papers:
     title: Reversible embedding to covers full of boundaries
     year: '2018'
   Om9jSl8AAAAJ:YsrPvlHIBpEC:
-    citations: 35
+    citations: 36
     title: 'A new globally adaptive k-nearest neighbor classifier based on local mean optimization: Z. Pan et al.'
     year: '2021'
   Om9jSl8AAAAJ:_AeoHAGD03cC:
@@ -494,7 +494,7 @@ papers:
     title: 'Irisguard: image forgery detection for iris anti-spoofing'
     year: '2022'
   Om9jSl8AAAAJ:zUl2_INMlC4C:
-    citations: 3
+    citations: 4
     title: Towards reliable deepfake detection from uncertainty calibration perspective
     year: '2025'
   Om9jSl8AAAAJ:z_wVstp3MssC:
